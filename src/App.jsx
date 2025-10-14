@@ -16,7 +16,7 @@ const App = () => {
     <section id="showcase">
 <div class="container">
 <h1>
-    ⚡ Epic stories. Endless adventures. Only on PlayStation.
+    Duolingo, where learning a language is a breeze... and free!! 
 </h1>
 </div>
     </section>
@@ -43,7 +43,7 @@ Download Duolingo today and start speaking a new language — for FREE!
     
    
     <aside id="sidebar">
-        <p>Play without limits</p>
+        <p>Learning has no limits</p>
     </aside>
     
     <footer id="main-footer">
